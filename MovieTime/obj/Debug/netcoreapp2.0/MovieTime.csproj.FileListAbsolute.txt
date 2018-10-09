@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.deps.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.runtimeconfig.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.runtimeconfig.dev.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.dll
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.pdb
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.csprojAssemblyReference.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.AssemblyInfo.cs
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.dll
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.pdb

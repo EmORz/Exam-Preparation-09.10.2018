@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.deps.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.runtimeconfig.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.runtimeconfig.dev.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.dll
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.pdb
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.csprojAssemblyReference.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.AssemblyInfo.cs
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.dll
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.pdb
