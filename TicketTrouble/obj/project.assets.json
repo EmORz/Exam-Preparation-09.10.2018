@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\TicketTrouble\\TicketTrouble.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\TicketTrouble\\TicketTrouble.csproj",
       "projectName": "TicketTrouble",
-      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\TicketTrouble\\TicketTrouble.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\TicketTrouble\\TicketTrouble.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\TicketTrouble\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\TicketTrouble\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

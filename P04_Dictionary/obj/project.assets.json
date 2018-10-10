@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P04_Dictionary\\P04_Dictionary.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P04_Dictionary\\P04_Dictionary.csproj",
       "projectName": "P04_Dictionary",
-      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P04_Dictionary\\P04_Dictionary.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P04_Dictionary\\P04_Dictionary.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P04_Dictionary\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P04_Dictionary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

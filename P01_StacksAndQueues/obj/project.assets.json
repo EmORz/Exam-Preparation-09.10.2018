@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P01_StacksAndQueues\\P01_StacksAndQueues.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P01_StacksAndQueues\\P01_StacksAndQueues.csproj",
       "projectName": "P01_StacksAndQueues",
-      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P01_StacksAndQueues\\P01_StacksAndQueues.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P01_StacksAndQueues\\P01_StacksAndQueues.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P01_StacksAndQueues\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P01_StacksAndQueues\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

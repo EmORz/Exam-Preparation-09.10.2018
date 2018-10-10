@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P03_RegEx\\P03_RegEx.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P03_RegEx\\P03_RegEx.csproj",
       "projectName": "P03_RegEx",
-      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P03_RegEx\\P03_RegEx.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P03_RegEx\\P03_RegEx.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\P03_RegEx\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\P03_RegEx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

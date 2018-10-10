@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.deps.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.runtimeconfig.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.runtimeconfig.dev.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.dll
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.pdb
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.AssemblyInfo.cs
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.dll
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.pdb

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Crossroads\\Crossroads.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\Crossroads\\Crossroads.csproj",
       "projectName": "Crossroads",
-      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Crossroads\\Crossroads.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\Crossroads\\Crossroads.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Crossroads\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\01. Crossroads_Author's Solution\\Exam-Preparation-09.10.2018\\Crossroads\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\bin\Debug\netcoreapp2.0\P01_StacksAndQueues.deps.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\bin\Debug\netcoreapp2.0\P01_StacksAndQueues.runtimeconfig.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\bin\Debug\netcoreapp2.0\P01_StacksAndQueues.runtimeconfig.dev.json
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\bin\Debug\netcoreapp2.0\P01_StacksAndQueues.dll
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\bin\Debug\netcoreapp2.0\P01_StacksAndQueues.pdb
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\obj\Debug\netcoreapp2.0\P01_StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\obj\Debug\netcoreapp2.0\P01_StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\obj\Debug\netcoreapp2.0\P01_StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\obj\Debug\netcoreapp2.0\P01_StacksAndQueues.AssemblyInfo.cs
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\obj\Debug\netcoreapp2.0\P01_StacksAndQueues.dll
+C:\Users\User\Desktop\01. Crossroads_Author's Solution\Exam-Preparation-09.10.2018\P01_StacksAndQueues\obj\Debug\netcoreapp2.0\P01_StacksAndQueues.pdb

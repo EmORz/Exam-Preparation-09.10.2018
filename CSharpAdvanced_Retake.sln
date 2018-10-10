@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_RegEx", "P03_RegEx\P03_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04_Dictionary", "P04_Dictionary\P04_Dictionary.csproj", "{77A98835-E287-4794-AF9E-6842C214A1A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossroads", "Crossroads\Crossroads.csproj", "{7EEB9A22-CAD6-4A53-B71B-DFEC7309C21E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crossroads", "Crossroads\Crossroads.csproj", "{7EEB9A22-CAD6-4A53-B71B-DFEC7309C21E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketTrouble", "TicketTrouble\TicketTrouble.csproj", "{416B93C4-CC81-414E-A9D6-4A972DF79A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketTrouble", "TicketTrouble\TicketTrouble.csproj", "{416B93C4-CC81-414E-A9D6-4A972DF79A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTime", "MovieTime\MovieTime.csproj", "{C59DAA54-53A3-45A7-9A5E-2E452C9EB4CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTime", "MovieTime\MovieTime.csproj", "{C59DAA54-53A3-45A7-9A5E-2E452C9EB4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightGame", "KnightGame\KnightGame.csproj", "{3EE4C4E0-6798-40EB-9045-8BAB2C0D44E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C59DAA54-53A3-45A7-9A5E-2E452C9EB4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C59DAA54-53A3-45A7-9A5E-2E452C9EB4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C59DAA54-53A3-45A7-9A5E-2E452C9EB4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE4C4E0-6798-40EB-9045-8BAB2C0D44E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE4C4E0-6798-40EB-9045-8BAB2C0D44E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE4C4E0-6798-40EB-9045-8BAB2C0D44E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE4C4E0-6798-40EB-9045-8BAB2C0D44E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
